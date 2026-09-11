@@ -1,6 +1,6 @@
-# Skip a Stone — Support & Privacy
+# Skip a Stone? — Support & Privacy
 
-Official public support and privacy pages for the Skip a Stone iPhone app.
+Official public support and privacy pages for the Skip a Stone? iPhone app.
 
 - Support: <https://jeffbloom168-code.github.io/skip-a-stone-support/support/>
 - Privacy: <https://jeffbloom168-code.github.io/skip-a-stone-support/privacy/>
